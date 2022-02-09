@@ -1,3 +1,4 @@
+-- Created by Syntax 64 and Whited
 local PLAYERS = game:GetService("Players")
 
 local PARTS = {"Head", "Torso", "UpperTorso", "LowerTorso", "Left Arm", "LeftUpperArm", "LeftLowerArm", "LeftHand", "Right Arm", "RightUpperArm", "RightLowerArm", "RightHand", "Left Leg", "LeftUpperLeg", "LeftLowerLeg", "LeftFoot", "Right Leg", "RightUpperLeg", "RightLowerLeg", "RightFoot"}
