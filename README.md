@@ -1,7 +1,7 @@
 
 # Project: Clientserver
 
-Project: Clientserver is a script which aims to provide an exploiting network for the community. Filtering Disabled is recreated  as after executing, everything your client sees is sent to other clients running the script creating a simulation of Roblox Servers. There are endless possibilities as to what can be achieved.
+Project: Clientserver is a script which aims to provide an exploiting network for the community. Filtering Disabled is reproduced because everything your client sees is broadcast to other clients running the script, producing a Roblox Server simulation. There are no limitations to what can be accomplished.
 
 
 ## Authors
