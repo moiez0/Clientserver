@@ -1,8 +1,16 @@
 
 # Hosting a websocket!
 
-Use this to host a websocket.
 #
+# Easy Method:
+Host your own websocket using Heroku!
+#
+Visit https://github.com/mgamingpro/Clientserver-ws
+#
+Click deploy to heroku
+#
+Connect to the websocket with wss instead of https!
+# Use this to host a websocket on your own PC.
 Step 1. Install NodeJs
 #
 Step 2. Open command prompt and cd to the dir
